@@ -1,0 +1,17 @@
+#Pet
+pet_postid: 252413
+pet_postname: Ballerina
+pet_getTag: Exotic
+pet_getInvalidId: 77777
+#Store
+store_orderId: 2284
+store_orderQuantity: 3
+storeOrder_orderId: 6
+#User
+user_id: 234
+user_name: dummyuser34
+user_firstName: Dummy
+user_lastName: User
+user_email: 'dummyuser34@example.com'
+user_password: DummyUser341
+user_phone: 966876546

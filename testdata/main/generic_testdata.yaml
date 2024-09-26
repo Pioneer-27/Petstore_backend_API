@@ -1,0 +1,9 @@
+BASE_URL: https://petstore.swagger.io/v2
+API_KEY: EMPTY
+success_status: 200
+pet_status_sold: sold
+json_errorType: error
+failure_status: 404
+json_petErrorMsg: Pet not found
+delJson_errorType: unknown
+json_orderErrorMsg: Order not found
